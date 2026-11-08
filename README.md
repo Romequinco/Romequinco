@@ -36,7 +36,7 @@ I spent three years executing equities on a trading desk. Now I do quantitative 
 - **[Market regimes](https://romequinco.github.io/work/market-regimes/)**: 12 detectors, 60 years of data. 16/17 crises caught.
 - **[Document systems for companies](https://romequinco.github.io/work/doc-systems/)**: Ordered archives and an AI assistant for 5 companies. In use.
 
-All 30 projects, each with figures and a write-up, are on **[romequinco.github.io](https://romequinco.github.io)**.
+All 31 projects, each with figures and a write-up, are on **[romequinco.github.io](https://romequinco.github.io)**.
 
 **Stack**
 
