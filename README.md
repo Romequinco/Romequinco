@@ -2,7 +2,7 @@
 
 **Quantitative analyst · Financial markets & AI** · Bilbao, Madrid or remote
 
-[![Website](https://img.shields.io/badge/Website-romequinco.github.io-2C302E?style=flat-square)](https://romequinco.github.io)
+[![Website](https://img.shields.io/badge/Website-romequinco.github.io-2C302E?style=flat-square&logo=googlechrome&logoColor=white)](https://romequinco.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Óscar_Romero_Quincoces-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/oscarromeroquincoces)
 
 I spent three years executing equities on a trading desk. Now I do quantitative research and build AI tools for markets: they explain what happened, check their own figures and never tell anyone what to buy.
@@ -17,10 +17,10 @@ I spent three years executing equities on a trading desk. Now I do quantitative 
     <td width="33%" valign="top">
       <a href="https://romequinco.github.io/work/briefly/"><img src="https://romequinco.github.io/img/readme/briefly.webp" alt="Briefly app"></a><br>
       <b><a href="https://romequinco.github.io/work/briefly/">Briefly</a></b><br>
-      <sub>A two-voice podcast on your stocks · live demo</sub>
+      <sub>A two-voice podcast on your stocks · demo on request</sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://romequinco.github.io/work/stator/"><img src="https://romequinco.github.io/img/readme/stator.webp" alt="STATOR dashboard"></a><br>
+      <a href="https://romequinco.github.io/work/stator/"><img src="https://romequinco.github.io/img/readme/stator.webp?v=2" alt="STATOR dashboard"></a><br>
       <b><a href="https://romequinco.github.io/work/stator/">STATOR</a></b><br>
       <sub>Liquidity engine for illiquid stocks · paper trading</sub>
     </td>
