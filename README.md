@@ -10,7 +10,7 @@ I spent three years executing equities on a trading desk. Now I do quantitative 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://romequinco.github.io/work/auguria/"><img src="https://romequinco.github.io/img/readme/auguria.webp" alt="Auguria dashboard"></a><br>
+      <a href="https://romequinco.github.io/work/auguria/"><img src="https://romequinco.github.io/img/readme/auguria.webp?v=3" alt="Auguria dashboard"></a><br>
       <b><a href="https://romequinco.github.io/work/auguria/">Auguria</a></b><br>
       <sub>Market analysis in Spanish · in production</sub>
     </td>
@@ -20,7 +20,7 @@ I spent three years executing equities on a trading desk. Now I do quantitative 
       <sub>A two-voice podcast on your stocks · demo on request</sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://romequinco.github.io/work/stator/"><img src="https://romequinco.github.io/img/readme/stator.webp?v=2" alt="STATOR dashboard"></a><br>
+      <a href="https://romequinco.github.io/work/stator/"><img src="https://romequinco.github.io/img/readme/stator.webp?v=3" alt="STATOR dashboard"></a><br>
       <b><a href="https://romequinco.github.io/work/stator/">STATOR</a></b><br>
       <sub>Liquidity engine for illiquid stocks · paper trading</sub>
     </td>
